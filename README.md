@@ -12,3 +12,4 @@
 * `ggplot2` documentation: http://docs.ggplot2.org/current/
 Lauren Burr
 hello
+* This is me now
